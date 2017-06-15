@@ -3,7 +3,7 @@
 $(document).ready(function(){
 
 
-	var myFacebookToken=""; // paste users facebook token here
+	var myFacebookToken="EAACEdEose0cBAEYT70NkXRhaZApZCIcVNBTKwPWDdFoVh0kZC0LzvDmdz2o8bq6UF1H63tStFTRt8Xf0kWldb9tzVpIbfeNMnBiB11noGn0CLyVye9DagGsGx5Okjqxc4HCMOE7t5c9hjBJZASXBNZCCmYCKB1Aa99vaisiibfbB2AiaEbf6S1Ih6vUlYUocZD"; // paste users facebook token here
 	 	// function to get the basic facebook details
 	 	function getBasicFacebookInfo(){
 	 		//Make request to facebook graph api
